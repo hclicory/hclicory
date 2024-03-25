@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hclicory
-- 👀 I’m interested in ...gaming, app development, 2D painting
+- 👀 I’m interested in ...gaming, app development, programming
 - 🌱 I’m currently learning ...react native
 - 💞️ I’m looking to collaborate on ...game or app project
 - 📫 How to reach me ...email me :)
